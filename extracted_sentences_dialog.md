@@ -1,8 +1,8 @@
 # Sentences containing 'dialog'
 
-Strength Lies in Differences! Towards Effective Non-collaborative Dialogues via Tailored Strategy Planning
+[Strength Lies in Differences! Towards Effective Non-collaborative Dialogues via Tailored Strategy Planning](https://arxiv.org/abs/2403.06769)
 
-Overcome Noise and Bias: Segmentation-Aided Multi-Granularity Denoising and Debiasing for Enhanced Quarduples Extraction in Dialogue
+[Overcome Noise and Bias: Segmentation-Aided Multi-Granularity Denoising and Debiasing for Enhanced Quarduples Extraction in Dialogue]
 
 What’s Mine becomes Yours: Defining, Annotating and Detecting Context-Dependent Paraphrases in News Interview Dialogs
 
