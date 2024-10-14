@@ -1,6 +1,6 @@
 # Sentences containing 'dialog'
 
-[Analyzing LLM Behavior in Dialogue Summarization:Unveiling Circumstantial Hallucination Trends](https://aclanthology.org/2024.acl-long.385/)
+[Analyzing LLM Behavior in Dialogue Summarization:Unveiling Circumstantial Hallucination Trends](https://aclanthology.org/2024.acl-long.677.pdf)
 
 [Strength Lies in Differences! Towards Effective Non-collaborative Dialogues via Tailored Strategy Planning](https://arxiv.org/abs/2403.06769)
 
