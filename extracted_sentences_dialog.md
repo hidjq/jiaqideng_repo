@@ -1,5 +1,7 @@
 # Sentences containing 'dialog'
 
+[Analyzing LLM Behavior in Dialogue Summarization:Unveiling Circumstantial Hallucination Trends](https://aclanthology.org/2024.acl-long.385/)
+
 [Strength Lies in Differences! Towards Effective Non-collaborative Dialogues via Tailored Strategy Planning](https://arxiv.org/abs/2403.06769)
 
 [Overcome Noise and Bias: Segmentation-Aided Multi-Granularity Denoising and Debiasing for Enhanced Quarduples Extraction in Dialogue]
