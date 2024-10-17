@@ -1,4 +1,5 @@
 # READ ME
+<<<<<<< HEAD
 #2024
 
 **SUMIE: A Synthetic Benchmark for Incremental Entity Summarization:** https://arxiv.org/abs/2406.05079
@@ -25,3 +26,5 @@ https://aclanthology.org/2024.acl-long.153/
 #2021
 
 **Incremental temporal summarization in multiparty meetings：**https://aclanthology.org/2021.sigdial-1.55/
+=======
+>>>>>>> 8381cced0bee2269b24ac41e12f2cba5af6bbbab
